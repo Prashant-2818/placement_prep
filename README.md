@@ -2,7 +2,7 @@
 <!--ABOUT ME CODE-->
  **About Myself** <br> 
 
-✔️ **Ajay Pandey** <br>
+✔️ **Prashant** <br>
 
 ✔️ **Information Technology** <br>
 
@@ -10,6 +10,6 @@
 
  ✔️ **Section - A** <br>
  
- ✔️ **Roll No- 2100290139001** <br>
+ ✔️ **Roll No- 2100290139009** <br>
 
 <br>
